@@ -1,0 +1,12 @@
+{
+  "name": "Resolvable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/brooswit/resolvable",
+  "author": "Jay <jwinstead@launchdarkly.com>",
+  "license": "MIT"
+  "dependencies": {
+    "asyncly": "git+https://github.com/brooswit/NO_OP.git"
+  }
+}
