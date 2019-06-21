@@ -7,6 +7,6 @@
   "author": "Jay <jwinstead@launchdarkly.com>",
   "license": "MIT",
   "dependencies": {
-    "asyncly": "git+https://github.com/brooswit/NO_OP.git"
+    "NO_OP": "git+https://github.com/brooswit/NO_OP.git"
   }
 }
